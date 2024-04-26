@@ -1,4 +1,4 @@
- <img src="https://i.ibb.co/MPJ93X9/20211209-205206.png" alt="google-font" border="0"></a>
+ <img src="[https://i.ibb.co/MPJ93X9/20211209-205206.png](https://telegra.ph/file/135ec037a7cca996847ac.jpg)" alt="google-font" border="0"></a>
 <div align="center">
         <img src="https://i.ibb.co/6tbmPj1/maaluttty.jpg" alt="GIF" width="250" height="250"/>
 </p>
